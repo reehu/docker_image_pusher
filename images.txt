@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 docker.io/openebs/zfs-driver:2.8.0
+docker.io/bitnami/redis-cluster:6.2.7-debian-11-r9
